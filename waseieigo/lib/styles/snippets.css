@@ -1,0 +1,1 @@
+.callout-title{font-size:calc(var(--font-text-size)*.8)}.callout-content{font-size:calc(var(--font-text-size)*.6)}.callout[data-callout=comments]{--callout-color:105,105,105;--callout-icon:"lucide-message-circle"}
